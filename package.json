@@ -1,0 +1,19 @@
+{
+  "name": "yarn-corepack-resolutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cognito-express": "3.0.3"
+  },
+  "resolutions": {
+    "cognito-express/axios": "1.6.1"
+  },
+  "packageManager": "yarn@4.0.2"
+}
